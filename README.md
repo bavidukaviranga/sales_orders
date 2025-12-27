@@ -23,8 +23,10 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-<img width="1365" height="685" alt="image" src="https://github.com/user-attachments/assets/7e6890cf-31ca-48b3-9fbc-840fe2ec5356" />
-<img width="1363" height="604" alt="image" src="https://github.com/user-attachments/assets/214083b9-c336-413e-8fee-276e027e5a65" />
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/f9e7e99e-68d6-49bb-b57e-095bfa2e8fcf" />
+<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/6246b77b-b371-471f-95eb-f1f5368ab00a" />
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/a33faa69-a51e-4306-957b-5b14d21078fb" />
+![Uploading image.png…]()
 <img width="1361" height="589" alt="image" src="https://github.com/user-attachments/assets/657d836d-c543-4c1a-bd42-6c0a36a8db35" />
 <img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/ee4ad215-d6a3-4bd9-ba58-4ac34d75738f" />
 <img width="1365" height="600" alt="image" src="https://github.com/user-attachments/assets/31867ca5-4b58-4a5e-a074-61255ef338a4" />

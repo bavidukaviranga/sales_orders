@@ -1,5 +1,17 @@
 # React + Vite
+Key points:
 
+🧱 Tech stack: React, Vite, JavaScript, Tailwind CSS. 
+GitHub
+
+⚙️ Configuration: Includes ESLint, Tailwind, and Vite config files. 
+GitHub
+
+📌 Template origin: Contains the default README content from a React + Vite starter template. 
+GitHub
+
+🌐 Live demo: A deployed version is linked (sales-orders.vercel.app). 
+GitHub
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
